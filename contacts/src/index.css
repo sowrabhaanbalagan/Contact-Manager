@@ -1,0 +1,22 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+body{
+  margin: 0px;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: lavender;
+}
+.menu{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
